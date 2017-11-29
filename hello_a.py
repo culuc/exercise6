@@ -1,2 +1,2 @@
-oiejfoiwefjoifrint('Hello Mrs. A')
-fkeofkoefkeofkiii
+print('Hello Mrs. A')
+
